@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+networkx
+plotly
+torch
+torch-geometric
+sentence-transformers
+scikit-learn
