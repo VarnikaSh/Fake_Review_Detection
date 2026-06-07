@@ -5,10 +5,8 @@ import networkx as nx
 import torch
 import plotly.express as px
 import plotly.graph_objects as go
-import shap
 
 from torch_geometric.nn import SAGEConv
-from transformers import AutoTokenizer
 
 from utils import(
     load_reviews,
