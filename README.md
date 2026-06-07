@@ -1,2 +1,2 @@
 # Fake_Review_Detection
-Enterprise-grade fake review detection platform combining Graph Neural Networks, NLP embeddings, anomaly detection, fraud ring discovery, sentiment analysis, and graph analytics to identify coordinated review manipulation campaigns at scale.
+Enterprise-scale fake review detection system leveraging Graph Neural Networks, NLP embeddings, anomaly detection, and reviewer-product graph analytics to identify coordinated review fraud campaigns in e-commerce ecosystems.
