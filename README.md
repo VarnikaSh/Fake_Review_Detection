@@ -31,7 +31,7 @@ app.py train_gnn.py utils.py fraud_gnn.py reviews.csv requirements.txt
 - Browser Extension for automatic detection
 
  ## Live Demo
- [Click Here to Try the App](
+ [Click Here to Try the App](https://fakereviewdetection-fg2v2ghausc439zxp4kuew.streamlit.app/)
 
  ## Author
  Varnika Shukla
